@@ -1,4 +1,10 @@
 # baidumap_web
+>接入百度地图接口
+>
+>添加一些百度地图的控件
+>
+>百度地图的定位功能
+```html
 <html>
 <head>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
@@ -87,3 +93,4 @@
 </div>
 </body>
 </html>
+```
